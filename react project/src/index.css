@@ -1,0 +1,10 @@
+.one{
+  display: inline-block;
+  margin: 10px;
+  text-align: center; 
+  background-color: aquamarine;
+}
+.one img{
+  width: 200px;
+  border-radius: 10px;
+}

@@ -1,0 +1,17 @@
+{
+ "a":[ {
+    "image": "/assets/image1.jpg",
+    "age": 10,
+    "name": "hari"
+  },
+  {
+    "image": "/assets/image1.jpg",
+    "age": 20,
+    "name": "vinoth"
+  },
+  {
+    "image": "/assets/image1.jpg",
+    "age": 30,
+    "name": "varma"
+  }
+]}
